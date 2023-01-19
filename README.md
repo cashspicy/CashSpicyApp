@@ -1,0 +1,2 @@
+# CashSpicyApp
+Auto update releases
